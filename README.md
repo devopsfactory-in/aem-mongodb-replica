@@ -18,14 +18,14 @@ If the criteria are not met, then a TarMK active/standby deployment is recommend
 
 
 ## Prerequisites
-* cq-quickstart-6.3.0.jar
+* cq-quickstart-6.3.0.jar (AEM Jar)
 * licence.properties (Adobe Licence)
 * Mongodb binary
 
 ## Configuration
 - Create a direcorty named 'aem-mongodb-replica'
 
-- Copy 'q-quickstart-6.3.0.jar' and 'licence.properties' to the directory
+- Copy 'cq-quickstart-6.3.0.jar' and 'licence.properties' to the directory
 
 - Download Mongodb binary from https://www.mongodb.com/download-center#community
   or 
